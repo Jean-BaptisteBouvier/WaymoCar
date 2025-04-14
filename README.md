@@ -1,5 +1,12 @@
 # WaymoCar
-Gymnasium environment of a MuJoCo car with 4 wheels and differential steering of the front wheels
+Gymnasium environment of a MuJoCo car with 4 wheels and differential steering of the front wheels.
+
+
+![birdview](assets/scripted_birdview.gif)
+
+![following](assets/scripted_follow.gif)
+
+![track](assets/scripted_track.gif)
 
 
 ## Organization
